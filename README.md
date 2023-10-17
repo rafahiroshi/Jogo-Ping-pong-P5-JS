@@ -8,6 +8,13 @@ Jogo Ping Pong no Scratch.
 | :label: Tecnologias | scratch (tecnologia utilizada)
 | 🔗 Link | https://scratch.mit.edu/projects/894315044
 
+## Grato ao professor Guilherme Lima e à todo pessoal da Alura que fazem isto acontecer.
+
+## Detalhes do projeto
+
+  Para mim, o que fiz de diferente foi utilizar algumas coisas a mais que já tinha no próprio scratch, fazendo a raquete do oponente ter movimentos independentes e aleatórios, mas naturalizados, como se não estivesse vendo a bolinha quando está longe.
+  Deixei prints do projeto inteiro, mas deixei o link também, ali em cima.
+
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <img width="1440" alt="Captura de Tela 2023-10-17 às 13 16 24" src="https://github.com/rafahiroshi/Jogo-Ping-pong-P5-JS/assets/66161605/46d6d3f4-375a-45bf-b691-0e9ddec23a4f">
 
@@ -34,9 +41,3 @@ Jogo Ping Pong no Scratch.
 <img width="1440" alt="Captura de Tela 2023-10-17 às 13 18 44" src="https://github.com/rafahiroshi/Jogo-Ping-pong-P5-JS/assets/66161605/56b22648-75ef-4743-b9d6-672387b0d822">
 
 <img width="1440" alt="Captura de Tela 2023-10-17 às 13 18 57" src="https://github.com/rafahiroshi/Jogo-Ping-pong-P5-JS/assets/66161605/5b37d8ca-edf2-4498-b278-260aec6d797f">
-
-
-## Detalhes do projeto
-
-  Para mim, o que fiz de diferente foi utilizar algumas coisas a mais que já tinha no próprio scratch, fazendo a raquete do oponente ter movimentos independentes e aleatórios, mas naturalizados, como se não estivesse vendo a bolinha quando está longe.
-  Deixei prints do projeto inteiro, mas vou deixar o link também.

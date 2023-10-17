@@ -1,18 +1,19 @@
 # Primeiro projeto na Plataforma Alura!
 
-Jogo Ping Pong no Scratch.
+## Jogo Ping Pong no Scratch.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Jogo Pong**
-| :label: Tecnologias | scratch (tecnologia utilizada)
+| :placard: Vitrine.Dev ||
+|-|-|
+| :sparkles: Nome/Name | **Projeto Alura: Jogo Ping-Pong**
+| :label: Tecnologias/Technologies | Scratch (Tecnologia Utilizada/Technology Used)
 | 🔗 Link | https://scratch.mit.edu/projects/894315044
 
 ## Grato ao professor Guilherme Lima e à todo pessoal da Alura que fazem isto acontecer.
 
-## Detalhes do projeto
+## Detalhes do projeto:
 
   Para mim, o que fiz de diferente foi utilizar algumas coisas a mais que já tinha no próprio scratch, fazendo a raquete do oponente ter movimentos independentes e aleatórios, mas naturalizados, como se não estivesse vendo a bolinha quando está longe.
+  
   Deixei prints do projeto inteiro, mas deixei o link também, ali em cima.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
